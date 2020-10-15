@@ -1,1 +1,4 @@
-# Add code from Readme
+require "awesome_print"
+
+class Bird < ApplicationRecord
+end
